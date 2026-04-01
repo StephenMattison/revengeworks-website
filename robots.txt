@@ -1,0 +1,35 @@
+Sitemap: https://www.revengeworks.com/sitemap.xml.gz
+
+User-agent: *
+Disallow: /c691b628-5b1c-476b-8960-602d9f614e4e/
+Disallow: /wp-admin
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: /
+
+User-agent: SemrushBot-BM
+Disallow: /
+
+User-agent: SemrushBot-SEOAB
+Disallow: /
